@@ -1,1 +1,2 @@
-### Olá 👋### Olá! Eu sou o Kennedy Pereir [![ Instagram](https://img.shields.io/badge/Instagram-E4405F? style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p/COqqinjhw4T/?igshid=YmMyMTA2M2Y=)
+### Olá 👋### Olá! Eu sou o Kennedy Pereira 
+[![ Instagram](https://img.shields.io/badge/Instagram-E4405F? style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p/COqqinjhw4T/?igshid=YmMyMTA2M2Y=)
